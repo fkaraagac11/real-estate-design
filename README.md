@@ -7,8 +7,8 @@
         <tr>
             <td>Project Name</td>
             <td>Repo Link</td>
-            <td>App Link</td>
-            <td>Overview</td>
+            <td></td>
+           
         </tr>
     </thead>
     <tbody> <tr>
