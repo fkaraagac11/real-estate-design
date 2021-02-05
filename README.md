@@ -8,7 +8,6 @@
             <td>Project Name</td>
             <td>Repo Link</td>
             <td>Overview</td>
-          
         </tr>
     </thead>
     <tbody> <tr>
